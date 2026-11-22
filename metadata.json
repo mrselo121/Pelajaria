@@ -1,0 +1,6 @@
+{
+  "name": "Pelajaria",
+  "description": "Teman Belajar Anak — Aplikasi pembelajaran TK & SD yang menghubungkan Guru, Murid, dan Orang Tua melalui dokumen foto & PDF, materi interaktif berbasis dokumen, dan penilaian manual guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
